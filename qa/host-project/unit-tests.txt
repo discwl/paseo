@@ -1,0 +1,13 @@
+
+> @getpaseo/app@0.10.0 test
+> vitest run src/components/sidebar/sidebar-projection.test.ts src/stores/sidebar-order-store.test.ts src/stores/sidebar-view-store.test.ts src/stores/sidebar-collapsed-sections-store/state.test.ts src/components/sidebar-workspace-list.test.tsx src/i18n/resources.test.ts
+
+
+ RUN  v4.1.7 C:/Code/paseo-host-project-pr-20260928/packages/app
+
+
+ Test Files  6 passed (6)
+      Tests  82 passed (82)
+   Start at  21:59:35
+   Duration  32.57s (transform 21.97s, setup 273ms, import 31.74s, tests 1.84s, environment 941ms)
+

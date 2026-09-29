@@ -1,0 +1,8 @@
+
+> paseo@0.10.0 format:check:files
+> oxfmt --check packages/app/e2e/browser/sidebar-project-grouping.spec.ts packages/app/src/components/left-sidebar.tsx packages/app/src/components/sidebar-workspace-list.tsx packages/app/src/components/sidebar/display-preferences/menu.tsx packages/app/src/components/sidebar/sidebar-model.tsx packages/app/src/components/sidebar/sidebar-projection.test.ts packages/app/src/components/sidebar/sidebar-projection.ts packages/app/src/i18n/resources/ar.ts packages/app/src/i18n/resources/en.ts packages/app/src/i18n/resources/es.ts packages/app/src/i18n/resources/fr.ts packages/app/src/i18n/resources/ja.ts packages/app/src/i18n/resources/ko.ts packages/app/src/i18n/resources/pt-BR.ts packages/app/src/i18n/resources/ru.ts packages/app/src/i18n/resources/zh-CN.ts packages/app/src/stores/sidebar-collapsed-sections-store/index.ts packages/app/src/stores/sidebar-collapsed-sections-store/state.test.ts packages/app/src/stores/sidebar-collapsed-sections-store/state.ts packages/app/src/stores/sidebar-order-store.test.ts packages/app/src/stores/sidebar-order-store.ts packages/app/src/stores/sidebar-view-store.test.ts packages/app/src/stores/sidebar-view-store.ts packages/app/src/components/sidebar/sidebar-host-block.tsx packages/app/src/components/sidebar/sidebar-host-groups.ts packages/app/src/components/sidebar/sidebar-host-header.tsx
+
+Checking formatting...
+
+All matched files use the correct format.
+Finished in 563ms on 26 files using 16 threads.
